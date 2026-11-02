@@ -1,6 +1,6 @@
 # Guess the Movie
 
-A movie quiz game in a Jupyter notebook. Players have 60 seconds to guess as many movies as they can from film stills and clues. 
+Players have 60 seconds to guess as many movies as they can from film stills and clues. 
 
 Sound effects and the ending song are made with Google's Lyria 3 music model.
 
