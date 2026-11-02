@@ -1,0 +1,5 @@
+keys/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+data/sounds/
