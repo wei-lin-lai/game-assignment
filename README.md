@@ -2,7 +2,7 @@
 
 Players answer 30 questions from film stills and clues.
 
-Sound effects and the ending song are made with Google's Lyria 3 music model.
+Ending song are made with Google's Lyria 3 music model.
 
 ## How to play
 
