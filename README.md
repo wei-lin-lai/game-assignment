@@ -4,6 +4,8 @@ Players answer 30 questions from film stills and clues.
 
 Ending song are made with Google's Lyria 3 music model.
 
+## Setup A Google Cloud service account key file is needed to use Lyria. Put it at `keys/service.json`. This file is not in the repo, because the `keys/` folder is in `.gitignore`.
+
 ## How to play
 
 1. Type your name and press **Start**.
